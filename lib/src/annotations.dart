@@ -28,7 +28,7 @@ class ObjectClass {
 class Data {
   final List<DataField> fields;
 
-  const Data({@required required this.fields});
+  const Data({required this.fields});
 }
 
 /// Mark the generated type as generic.

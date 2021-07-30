@@ -13,6 +13,6 @@ dependencies:
 # Adding dev dependencies
 # just for showcasing an example
 dev_dependencies:
-  http:
-  build_runner:
+  http: ^0.13.3
+  build_runner: ^2.0.6
 
